@@ -13,6 +13,6 @@ public class TV implements Display {
         public void decorate() {
             System.out.println(" - size " + size + "inch" + "\n" +
                     " - screen type " + type + "\n" +
-                    "\n Decorate");
+                    "\n Decorate: ");
         }
 }

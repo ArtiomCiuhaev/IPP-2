@@ -7,6 +7,6 @@ public class VisibilityDecorator extends Decorator{
 
     public void decorate() {
         super.decorate();
-        System.out.println("Bla bla");
+        System.out.println(" #Attach webcam");
     }
 }

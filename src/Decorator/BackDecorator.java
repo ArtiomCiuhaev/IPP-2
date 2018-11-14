@@ -7,6 +7,6 @@ public class BackDecorator extends Decorator{
 
     public void decorate() {
         super.decorate();
-        System.out.println(" Bla");
+        System.out.println(" #Put the bracket on the back of the TV");
     }
 }
